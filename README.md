@@ -47,7 +47,7 @@ Status   : Actively Building
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahi-cyberaware/mahi-cyberaware/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/mahi-cyberaware/mahi-cyberaware/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
