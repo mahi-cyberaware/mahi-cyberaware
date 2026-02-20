@@ -44,6 +44,12 @@ Status   : Actively Building
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi-cyberaware&theme=react-dark&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true"/>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahi-cyberaware/mahi-cyberaware/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 ---
 
 ## 🏆 Trophies
