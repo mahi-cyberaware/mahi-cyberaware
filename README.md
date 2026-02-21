@@ -244,5 +244,5 @@ Status   : Actively Building
   <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:000000,100:001a1a&height=180&section=footer&text=GitHub%20%7C%20mahi-cyberaware&fontSize=30&fontColor=39FF14&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:000000,100:001a1a&height=180&section=footer&text=mahi-cyberaware&fontSize=35&fontColor=39FF14&animation=fadeIn&desc=GitHub%20Profile&descAlignY=70"/>
 </p>
