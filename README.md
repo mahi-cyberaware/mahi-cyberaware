@@ -114,6 +114,9 @@ Status   : Actively Building
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:000000,100:000000&height=150&section=footer"/>
 </p>
 <br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header"/>
+</p>
 
 ## 🌐 Connect With Me
 
