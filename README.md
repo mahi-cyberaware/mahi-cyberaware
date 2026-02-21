@@ -65,10 +65,14 @@ Status   : Actively Building
 </p>
 
 ---
-## 🕒 Live System Data
+## 🕒 Live Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahi-cyberaware&show_icons=false&hide=stars,prs,issues,contribs&count_private=true&hide_border=true&theme=transparent"/>
+  <img src="https://streak-stats.demolab.com?user=mahi-cyberaware&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahi-cyberaware&theme=github_dark"/>
 </p>
 
 ## 📈 Contribution Graph
