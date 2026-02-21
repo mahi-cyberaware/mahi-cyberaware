@@ -45,6 +45,11 @@ Status   : Actively Building
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header"/>
 </p>
+## 🕒 Live System Data
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahi-cyberaware&show_icons=false&hide=stars,prs,issues,contribs&count_private=true&hide_border=true&theme=transparent"/>
+</p>
 ---
 
 ## 📈 Contribution Graph
