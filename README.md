@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a1a,100:000000&height=220&section=header&text=MAHESH%20M&fontSize=45&fontColor=00ffcc&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Python+%7C+Linux+%7C+Automation;Build.+Test.+Automate.+Secure."/>
+</p>
+
 <!-- ================= SYSTEM BOOT SEQUENCE ================= -->
 
 <p align="center">
@@ -13,14 +22,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a1a,100:000000&height=220&section=header&text=MAHESH%20M&fontSize=45&fontColor=00ffcc&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Python+%7C+Linux+%7C+Automation;Build.+Test.+Automate.+Secure."/>
-</p>
-
 ## 🚀 Want This Profile Setup?
 
 If you're wondering how this animated GitHub profile works 👀  
