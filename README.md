@@ -28,12 +28,7 @@ Status   : Actively Building
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahi-cyberaware&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-cyberaware&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-cyberaware&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=mahi-cyberaware&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
