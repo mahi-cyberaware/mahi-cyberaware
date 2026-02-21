@@ -98,6 +98,8 @@ Status   : Actively Building
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
 </p>
+---
+
 ## 🏆 Achievement Console
 
 ```bash
@@ -111,7 +113,17 @@ $ achievements --scan
 [🔒] 1K Followers Badge (Locked)
 
 System Status: Tracking Progress...
+```
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&width=600&height=40&lines=🏆+Achievement+Unlocked!;GitHub+Profile+Enhanced+Mode+Activated"/>
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/75/?color=39FF14&width=600"/>
+</p>
+
+---
 ## 🛠 Tech Stack
 
 <p align="center">
