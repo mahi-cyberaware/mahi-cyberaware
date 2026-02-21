@@ -191,3 +191,6 @@ Status   : Actively Building
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:000000,100:000000&height=150&section=footer"/>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:000000,100:001a1a&height=180&section=footer&text=mahi-cyberaware&fontSize=35&fontColor=39FF14&animation=fadeIn&desc=GitHub%20Profile&descAlignY=70"/>
+</p>
