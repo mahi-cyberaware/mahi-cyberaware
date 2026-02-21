@@ -6,6 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Python+%7C+Linux+%7C+Automation;Build.+Test.+Automate.+Secure."/>
 </p>
 
+## 🚀 Want This Profile Setup?
+
+If you're wondering how this animated GitHub profile works 👀  
+I’ve documented the full setup process.
+
+📩 Open an issue in this repo and comment:  
+**"Profile Setup Guide"**
+
+I’ll share the complete step-by-step workflow.
 ---
 
 ## 👁 Profile Views
