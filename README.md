@@ -31,6 +31,28 @@ I’ve documented the full setup process.
 **"Profile Setup Guide"**
 
 I’ll share the complete step-by-step workflow.
+
+---
+
+## 🔐 Premium GitHub Profile Template
+
+This advanced animated GitHub profile setup is available as a premium package.
+
+Includes:
+
+- 🚀 Animated terminal boot system
+- 🐍 Contribution snake automation
+- 🏆 Achievement grid
+- 📡 Radar & security alert animations
+- 🎯 Follower milestone tracker
+- 🌓 Dual-mode (Hacker / Recruiter) layout
+- 📘 Private setup documentation
+
+This template is not publicly distributed.
+
+📩 If you want a customized version, contact me directly.
+
+---
 ---
 
 ## 👁 Profile Views
