@@ -1,3 +1,18 @@
+<!-- ================= SYSTEM BOOT SEQUENCE ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&width=750&height=40&lines=Initializing+Mahesh+M+System...;Loading+Security+Modules...;Booting+Automation+Engine...;Access+Granted+✔"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=4"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&width=600&height=35&lines=System+Status:+ONLINE;Monitoring+GitHub+Activity...;Ready+for+Deployment"/>
+</p>
+
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a1a,100:000000&height=220&section=header&text=MAHESH%20M&fontSize=45&fontColor=00ffcc&animation=fadeIn"/>
 </p>
