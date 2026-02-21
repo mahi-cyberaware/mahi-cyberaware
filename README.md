@@ -194,13 +194,13 @@ Status   : Actively Building
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/mahi-cyberaware">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=39FF14"/>
   </a>
-  <a href="https://facebook.com/YOUR_USERNAME">
+  <a href="https://facebook.com/share/1AXFifd5VY/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=39FF14"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://linkedin.com/in/mahesh-meshram-a53941177?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
   </a>
   <a href="https://github.com/mahi-cyberaware">
