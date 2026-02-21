@@ -67,28 +67,45 @@ Status   : Actively Building
 ## 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://instagram.com/mahi-cyberaware">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff00"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&lines=Core+Technologies;Security+%7C+Automation+%7C+Development"/>
+</p>
+
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" height="45"/>
   </a>
-  <a href="https://facebook.com/share/1AXFifd5VY/?mibextid=wwXIfr">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00ff00"/>
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" height="45"/>
   </a>
-  <a href="https://linkedin.com/in/mahesh-meshram-a53941177?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
   </a>
-  <a href="https://github.com/mahi-cyberaware">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00"/>
+  <a href="https://gcc.gnu.org/">
+    <img src="https://skillicons.dev/icons?i=c" height="45"/>
   </a>
-  <a href="https://t.me/@myprogrammwork1">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff00"/>
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00ff00"/>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://skillicons.dev/icons?i=bash" height="45"/>
   </a>
-  <a href="https://gravatar.com/insightfulpatrol72740dae82">
-    <img src="https://img.shields.io/badge/Gravatar-000000?style=for-the-badge&logo=gravatar&logoColor=00ff00"/>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" height="45"/>
+  </a>
+  <a href="https://www.kali.org/">
+    <img src="https://skillicons.dev/icons?i=kali" height="45"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" height="45"/>
+  </a>
+  <a href="https://docs.github.com/en/actions">
+    <img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:000000,100:000000&height=150&section=footer"/>
