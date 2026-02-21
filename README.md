@@ -122,9 +122,6 @@ Status   : Actively Building
   <img src="https://progress-bar.dev/100/?color=FF0000&width=650"/>
 </p>
 
-
----
-
 ## 🏆 Achievement Grid
 
 <p align="center">
