@@ -137,6 +137,21 @@ Status   : Actively Building
     <img src="https://img.shields.io/badge/Gravatar-000000?style=for-the-badge&logo=gravatar&logoColor=39FF14"/>
   </a>
 </p>
+<br/>
+
+## 💻 Terminal Session
+
+```bash
+$ whoami
+Mahesh M
+
+$ role
+Cybersecurity Researcher & Automation Developer
+
+$ status
+System Active | Monitoring Contributions...
+
+$ echo "Build. Test. Automate. Secure."
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:000000,100:000000&height=150&section=footer"/>
 </p>
