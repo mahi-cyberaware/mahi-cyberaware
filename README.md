@@ -42,6 +42,9 @@ Status   : Actively Building
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&width=600&height=30&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"/>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header"/>
+</p>
 ---
 
 ## 📈 Contribution Graph
