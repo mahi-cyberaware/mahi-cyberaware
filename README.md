@@ -50,7 +50,7 @@ Status   : Actively Building
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahi-cyberaware&theme=matrix&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mahi-cyberaware&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ---
