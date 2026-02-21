@@ -147,26 +147,15 @@ Status   : Actively Building
 
 ---
 
-## 💻 Terminal Session
-
-```bash
-$ whoami
-Mahesh M
-
-$ role
-Cybersecurity Researcher & Automation Developer
-
-$ status
-System Active | Monitoring Contributions...
-
-$ echo "Build. Test. Automate. Secure."
-```
-
 ---
 
+## 💻 Terminal Interface
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&width=700&height=40&lines=$+whoami;Mahesh+M;$+role;Cybersecurity+Researcher+%26+Automation+Developer;$+status;System+Active+|+Monitoring+Contributions...;$+echo+%22Build.+Test.+Automate.+Secure.%22"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:000000,100:000000&height=150&section=footer"/>
