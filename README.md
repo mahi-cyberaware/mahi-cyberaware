@@ -99,7 +99,7 @@ Status   : Actively Building
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
 </p>
 ---
----
+
 
 ## 🚨 Security Alert
 
@@ -112,28 +112,27 @@ Status   : Actively Building
 </p>
 
 ---
-## 🏆 Achievement Console
+---
 
-```bash
-$ achievements --scan
-
-[✔] First Repository Created
-[✔] GitHub Actions Activated
-[✔] Contribution Snake Deployed
-[✔] Automation Modules Integrated
-[~] 100+ Contribution Milestone (In Progress)
-[🔒] 1K Followers Badge (Locked)
-
-System Status: Tracking Progress...
-```
+## 🏆 Achievement Grid
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&width=600&height=40&lines=🏆+Achievement+Unlocked!;GitHub+Profile+Enhanced+Mode+Activated"/>
+  <img src="https://img.shields.io/badge/Repository-Created-000000?style=for-the-badge&logo=github&logoColor=39FF14"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-Enabled-000000?style=for-the-badge&logo=githubactions&logoColor=39FF14"/>
+  <img src="https://img.shields.io/badge/Snake-Automation_Deployed-000000?style=for-the-badge&logo=github&logoColor=39FF14"/>
+  <img src="https://img.shields.io/badge/Profile-Enhanced_Mode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14"/>
 </p>
 
 <p align="center">
-  <img src="https://progress-bar.dev/75/?color=39FF14&width=600"/>
+  <img src="https://img.shields.io/badge/Milestone-100+_Contributions-000000?style=for-the-badge&logo=git&logoColor=39FF14"/>
+  <img src="https://img.shields.io/badge/Future-1K_Followers-000000?style=for-the-badge&logo=github&logoColor=AAAAAA"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&width=600&height=40&lines=Achievement+Tracking+Active...;Next+Milestone+Loading..."/>
+</p>
+
+
 
 ---
 ## 🛠 Tech Stack
