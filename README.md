@@ -108,7 +108,33 @@ Status   : Actively Building
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:000000,100:000000&height=150&section=footer"/>
 </p>
+<br/>
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=39FF14"/>
+  </a>
+  <a href="https://facebook.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=39FF14"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
+  </a>
+  <a href="https://github.com/mahi-cyberaware">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14"/>
+  </a>
+  <a href="https://t.me/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=39FF14"/>
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=39FF14"/>
+  </a>
+  <a href="https://gravatar.com/YOUR_GRAVATAR_LINK">
+    <img src="https://img.shields.io/badge/Gravatar-000000?style=for-the-badge&logo=gravatar&logoColor=39FF14"/>
+  </a>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:000000,100:000000&height=150&section=footer"/>
 </p>
