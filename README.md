@@ -41,12 +41,7 @@ Status   : Actively Building
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahi-cyberaware&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=mahi-cyberaware&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-cyberaware&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi-cyberaware&theme=react-dark&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true"/>
 </p>
 
 ## 🐍 Contribution Snake
