@@ -6,8 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&width=600&lines=Security+Focused+Developer;Automation+Engineer;Linux+%7C+Python+%7C+Ethical+Tooling;Build.+Test.+Automate.+Secure."/>
 </p>
----
-v
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a1a,100:000000&height=220&section=header&text=MAHESH%20M&fontSize=45&fontColor=00ffcc&animation=fadeIn"/>
 </p>
