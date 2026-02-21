@@ -1,6 +1,6 @@
 <!-- MATRIX STYLE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0f0f,100:001a1a&height=250&section=header&text=MAHESH%20M&fontSize=45&fontColor=00ffcc&animation=fadeIn&desc=Cybersecurity%20Researcher%20%7C%20Ethical%20Tools%20Developer&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0f0f,100:001a1a&height=250&section=header&text=MAHI%20CYBERAWARE&fontSize=45&fontColor=00ffcc&animation=fadeIn&desc=Cybersecurity%20Researcher%20%7C%20Ethical%20Tools%20Developer&descAlignY=60&descAlign=50"/>
 </p>
 
 <p align="center">
