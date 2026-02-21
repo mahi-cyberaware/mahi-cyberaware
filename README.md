@@ -22,17 +22,6 @@
 </p>
 
 ---
-## 🚀 Want This Profile Setup?
-
-If you're wondering how this animated GitHub profile works 👀  
-I’ve documented the full setup process.
-
-📩 Open an issue in this repo and comment:  
-**"Profile Setup Guide"**
-
-I’ll share the complete step-by-step workflow.
-
----
 
 ## 🔐 Premium GitHub Profile Template
 
