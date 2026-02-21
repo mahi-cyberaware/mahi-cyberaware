@@ -110,8 +110,19 @@ Status   : Actively Building
 <p align="center">
   <img src="https://progress-bar.dev/100/?color=FF0000&width=600"/>
 </p>
-
 ---
+
+## 🧠 Threat Intelligence Scan
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&width=800&height=45&lines=Tracing+Visitor+IP...;Geo-Locating+Access+Point...;Analyzing+Behavior+Pattern...;Result:+Curious+Developer+Detected+✔"/>
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/100/?color=FF0000&width=650"/>
+</p>
+
+
 ---
 
 ## 🏆 Achievement Grid
