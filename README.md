@@ -39,7 +39,9 @@ Status   : Actively Building
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=mahi-cyberaware&theme=tokyonight&hide_border=true"/>
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&width=600&height=30&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"/>
+</p>
 ---
 
 ## 📈 Contribution Graph
@@ -63,9 +65,7 @@ Status   : Actively Building
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&width=600&height=30&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"/>
-</p>
+
 ## 🛠 Tech Stack
 
 <p align="center">
