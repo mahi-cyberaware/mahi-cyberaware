@@ -99,7 +99,19 @@ Status   : Actively Building
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
 </p>
 ---
+---
 
+## 🚨 Security Alert
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&width=750&height=45&lines=⚠+System+Breach+Detected!;Unauthorized+Curiosity+Access+Attempt...;Analyzing+Visitor+Behavior...;Access+Converted+To+Follower+✔"/>
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/100/?color=FF0000&width=600"/>
+</p>
+
+---
 ## 🏆 Achievement Console
 
 ```bash
