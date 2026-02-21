@@ -89,10 +89,11 @@ Status   : Actively Building
 
 ---
 
+
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahi-cyberaware&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&width=600&height=40&lines=🏆+Trophy+System+Initializing...;Achievement+Modules+Loading...;Updates+Coming+Soon..."/>
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
