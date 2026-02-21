@@ -66,11 +66,11 @@ Status   : Actively Building
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahi-cyberaware&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
-
----
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
 </p>
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
