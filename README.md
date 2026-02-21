@@ -152,6 +152,22 @@ $ status
 System Active | Monitoring Contributions...
 
 $ echo "Build. Test. Automate. Secure."
+
+This gives you a real terminal aesthetic.
+
+---
+
+# 🌌 STEP 3 — Cyber Grid Background Illusion
+
+Since GitHub does not allow true background images,
+we simulate a cyber-grid effect using an animated GIF block.
+
+Add this ABOVE your final footer wave:
+
+```html
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="100%"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:000000,100:000000&height=150&section=footer"/>
 </p>
