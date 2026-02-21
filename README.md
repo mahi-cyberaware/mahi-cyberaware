@@ -98,7 +98,19 @@ Status   : Actively Building
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
 </p>
+## 🏆 Achievement Console
 
+```bash
+$ achievements --scan
+
+[✔] First Repository Created
+[✔] GitHub Actions Activated
+[✔] Contribution Snake Deployed
+[✔] Automation Modules Integrated
+[~] 100+ Contribution Milestone (In Progress)
+[🔒] 1K Followers Badge (Locked)
+
+System Status: Tracking Progress...
 
 ## 🛠 Tech Stack
 
