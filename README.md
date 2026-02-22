@@ -11,6 +11,9 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:000000,100:001a1a&height=180&section=footer&text=mahi-cyberaware&fontSize=35&fontColor=39FF14&animation=fadeIn&desc=GitHub%20Profile&descAlignY=70"/>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Python+%7C+Linux+%7C+Automation;Build.+Test.+Automate.+Secure."/>
 </p>
 
